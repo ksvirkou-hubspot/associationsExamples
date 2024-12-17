@@ -1,0 +1,17 @@
+{
+  "name": "problem-search",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "scripts": {
+    "index": "node index.js"
+  },
+  "author": "hubspot",
+  "dependencies": {
+    "@hubspot/api-client": "*",
+    "dotenv": "^8.1.0",
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.15"
+  }
+}
